@@ -7,6 +7,7 @@ import dev.ftb.mods.ftbteams.api.client.ClientTeamManager;
 import dev.ftb.mods.ftbteams.api.client.KnownClientPlayer;
 import dev.ftb.mods.ftbteams.api.property.TeamProperties;
 import dev.ftb.mods.ftbteams.client.KnownClientPlayerNet;
+import java.nio.charset.StandardCharsets;
 import net.minecraft.ChatFormatting;
 import net.minecraft.Util;
 import net.minecraft.client.Minecraft;
